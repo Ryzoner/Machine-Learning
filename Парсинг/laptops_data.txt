@@ -1,0 +1,2 @@
+Laptop 1,8GB RAM,999
+Laptop 2,16GB RAM,1499
